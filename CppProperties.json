@@ -9,7 +9,11 @@
         "${env.INCLUDE}",
         "${workspaceRoot}\\**"
       ],
+<<<<<<< HEAD
       "intelliSenseMode": "linux-gcc-x61"
+=======
+      "intelliSenseMode": "linux-gcc-x62"
+>>>>>>> demo
     }
   ]
 }
